@@ -14,9 +14,12 @@ Python Modules: subprocess, datetime, pytz, os
 Frontend: Basic HTML response from Django views.
 
 # Available Routes
-Endpoint	Description
-/	           Homepage
-/htop/	     Displays system processes
-/admin/	     Django Admin Panel
+
+| Endpoint   | Description                  |
+|------------|------------------------------|
+| `/`        | Homepage                     |
+| `/htop/`   | Displays system processes    |
+| `/admin/`  | Django Admin Panel           |
+
 
 ![Screenshot 2025-02-22 150745](https://github.com/user-attachments/assets/4848afd7-d11e-4e6b-9753-9a6313164f5e)
